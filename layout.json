@@ -1,0 +1,13 @@
+{
+  "ideaDirPath": "C:/Users/Administrator/Desktop/github-intellidea/aquaacrobatics/.idea",
+  "modulesMap": {
+    "aquaacrobatics": "C:/Users/Administrator/Desktop/github-intellidea/aquaacrobatics/.idea/modules/aquaacrobatics.iml",
+    "aquaacrobatics:api": "C:/Users/Administrator/Desktop/github-intellidea/aquaacrobatics/.idea/modules/aquaacrobatics.api.iml",
+    "aquaacrobatics:ideVirtualMain": "C:/Users/Administrator/Desktop/github-intellidea/aquaacrobatics/.idea/modules/aquaacrobatics.ideVirtualMain.iml",
+    "aquaacrobatics:injectedTags": "C:/Users/Administrator/Desktop/github-intellidea/aquaacrobatics/.idea/modules/aquaacrobatics.injectedTags.iml",
+    "aquaacrobatics:main": "C:/Users/Administrator/Desktop/github-intellidea/aquaacrobatics/.idea/modules/aquaacrobatics.main.iml",
+    "aquaacrobatics:mcLauncher": "C:/Users/Administrator/Desktop/github-intellidea/aquaacrobatics/.idea/modules/aquaacrobatics.mcLauncher.iml",
+    "aquaacrobatics:patchedMc": "C:/Users/Administrator/Desktop/github-intellidea/aquaacrobatics/.idea/modules/aquaacrobatics.patchedMc.iml",
+    "aquaacrobatics:test": "C:/Users/Administrator/Desktop/github-intellidea/aquaacrobatics/.idea/modules/aquaacrobatics.test.iml"
+  }
+}
